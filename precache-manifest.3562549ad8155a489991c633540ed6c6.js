@@ -4,40 +4,40 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-3-partner-mobile.dfb759e6.png"
   },
   {
-    "revision": "e51ee6f09e3939809025",
-    "url": "/home_io_site/static/css/main.46461d49.chunk.css"
+    "revision": "87d4785e73561e0f9b44",
+    "url": "/home_io_site/static/css/main.8e18f395.chunk.css"
   },
   {
-    "revision": "558f38e1ca441f4c7b84",
-    "url": "/home_io_site/static/js/runtime~main.72dcdf2d.js"
+    "revision": "9929d431fc605ce3a4b7",
+    "url": "/home_io_site/static/js/runtime~main.f49e665f.js"
   },
   {
     "revision": "6f87c0a38954bf07ac15",
     "url": "/home_io_site/static/js/2.32cecfc8.chunk.js"
   },
   {
-    "revision": "9c8bc9ff8c041872612a",
-    "url": "/home_io_site/static/js/3.15fb8609.chunk.js"
+    "revision": "afeaf3e001256f1eba6b",
+    "url": "/home_io_site/static/js/3.796fdeb5.chunk.js"
   },
   {
     "revision": "a11ad30b716b68505e64b535499d3c53",
     "url": "/home_io_site/static/media/section-2-alex.a11ad30b.png"
   },
   {
-    "revision": "b01e2f6603047497abd3",
-    "url": "/home_io_site/static/js/4.bd0e933c.chunk.js"
+    "revision": "245898d343ae0353bf55",
+    "url": "/home_io_site/static/js/4.c2202bbf.chunk.js"
   },
   {
-    "revision": "1e75360a1680d990530f",
-    "url": "/home_io_site/static/js/5.9176c587.chunk.js"
-  },
-  {
-    "revision": "c411f608b82aaf80d9fa1ac9e316b3ce",
-    "url": "/home_io_site/static/media/Eina01Regular.c411f608.otf"
+    "revision": "18d8d0694fec8623f8a2",
+    "url": "/home_io_site/static/js/5.1af24038.chunk.js"
   },
   {
     "revision": "1dcabfe91ab841d8bba2737620b29ddc",
     "url": "/home_io_site/static/media/Eina01SemiBold.1dcabfe9.otf"
+  },
+  {
+    "revision": "c411f608b82aaf80d9fa1ac9e316b3ce",
+    "url": "/home_io_site/static/media/Eina01Regular.c411f608.otf"
   },
   {
     "revision": "9f04d8e29fb2c2e80892e10deea9608e",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-1-evoland.bfc2989f.png"
   },
   {
-    "revision": "e51ee6f09e3939809025",
-    "url": "/home_io_site/static/js/main.12b91a6b.chunk.js"
+    "revision": "87d4785e73561e0f9b44",
+    "url": "/home_io_site/static/js/main.2d577b84.chunk.js"
   },
   {
     "revision": "3110379b583a895f915e4f329c94b417",
@@ -112,11 +112,11 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-2-denny.f67491f9.png"
   },
   {
-    "revision": "b01e2f6603047497abd3",
-    "url": "/home_io_site/static/css/4.359239a0.chunk.css"
+    "revision": "245898d343ae0353bf55",
+    "url": "/home_io_site/static/css/4.a5bccab7.chunk.css"
   },
   {
-    "revision": "3a9f0848940eae4adfabaa1a9eb65501",
+    "revision": "a7ebaf4901b6138d5ea9d779b2c2b5f2",
     "url": "/home_io_site/index.html"
   }
 ];
