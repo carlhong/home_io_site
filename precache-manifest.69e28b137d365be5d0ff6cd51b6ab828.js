@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/css/main.8e18f395.chunk.css"
   },
   {
-    "revision": "16ed29230226b407bf60",
-    "url": "/home_io_site/static/js/runtime~main.9b35682a.js"
+    "revision": "d1244bc8c6f75b60940b",
+    "url": "/home_io_site/static/js/runtime~main.71e59bd1.js"
   },
   {
     "revision": "6f87c0a38954bf07ac15",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-2-alex.a11ad30b.png"
   },
   {
-    "revision": "3aeb927ad472183b30ca",
-    "url": "/home_io_site/static/js/4.c2202bbf.chunk.js"
+    "revision": "48bfe7a4241ee14da93e",
+    "url": "/home_io_site/static/js/4.50317051.chunk.js"
   },
   {
     "revision": "18d8d0694fec8623f8a2",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/Eina01Regular.c411f608.otf"
   },
   {
-    "revision": "e0b783915d8fa4c85c6486f9ebcf045f",
-    "url": "/home_io_site/static/media/lng-light.e0b78391.svg"
-  },
-  {
     "revision": "9f04d8e29fb2c2e80892e10deea9608e",
     "url": "/home_io_site/static/media/lng.9f04d8e2.svg"
+  },
+  {
+    "revision": "e0b783915d8fa4c85c6486f9ebcf045f",
+    "url": "/home_io_site/static/media/lng-light.e0b78391.svg"
   },
   {
     "revision": "6b9d15b710902b0a00afd726b7c5a7d5",
@@ -84,12 +84,12 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-1-darwinia-hover.8688e339.png"
   },
   {
-    "revision": "3aaeb39d5b939acfc5820000fb850970",
-    "url": "/home_io_site/static/media/section-4-location-mobile.3aaeb39d.png"
-  },
-  {
     "revision": "5e0868979459bf1479549dcf775cf0c9",
     "url": "/home_io_site/static/media/home-banner-mobile.5e086897.png"
+  },
+  {
+    "revision": "3aaeb39d5b939acfc5820000fb850970",
+    "url": "/home_io_site/static/media/section-4-location-mobile.3aaeb39d.png"
   },
   {
     "revision": "43169463527694f997e0d0eeabae4a3b",
@@ -112,11 +112,11 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-2-denny.f67491f9.png"
   },
   {
-    "revision": "3aeb927ad472183b30ca",
-    "url": "/home_io_site/static/css/4.3d2c0270.chunk.css"
+    "revision": "48bfe7a4241ee14da93e",
+    "url": "/home_io_site/static/css/4.1382a463.chunk.css"
   },
   {
-    "revision": "d17b42cfb25d0e548a89a7816eb8b5cc",
+    "revision": "00e7fc15b08997cab7812d4d2111c090",
     "url": "/home_io_site/index.html"
   }
 ];
