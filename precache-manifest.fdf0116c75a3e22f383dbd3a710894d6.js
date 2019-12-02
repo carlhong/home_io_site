@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/js/5.9176c587.chunk.js"
   },
   {
-    "revision": "1dcabfe91ab841d8bba2737620b29ddc",
-    "url": "/home_io_site/static/media/Eina01SemiBold.1dcabfe9.otf"
-  },
-  {
     "revision": "c411f608b82aaf80d9fa1ac9e316b3ce",
     "url": "/home_io_site/static/media/Eina01Regular.c411f608.otf"
+  },
+  {
+    "revision": "1dcabfe91ab841d8bba2737620b29ddc",
+    "url": "/home_io_site/static/media/Eina01SemiBold.1dcabfe9.otf"
   },
   {
     "revision": "9f04d8e29fb2c2e80892e10deea9608e",
