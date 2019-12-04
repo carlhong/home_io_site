@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-3-partner-mobile.dfb759e6.png"
   },
   {
-    "revision": "d03f7c30483bd7520ffc",
+    "revision": "a6b459d33180950a5711",
     "url": "/home_io_site/static/css/main.8e18f395.chunk.css"
   },
   {
-    "revision": "d1244bc8c6f75b60940b",
-    "url": "/home_io_site/static/js/runtime~main.71e59bd1.js"
+    "revision": "e3d4d391fdb18dedd7cb",
+    "url": "/home_io_site/static/js/runtime~main.d0702eeb.js"
   },
   {
     "revision": "6f87c0a38954bf07ac15",
@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-2-alex.a11ad30b.png"
   },
   {
-    "revision": "48bfe7a4241ee14da93e",
-    "url": "/home_io_site/static/js/4.50317051.chunk.js"
+    "revision": "ae7890312a803d87af2a",
+    "url": "/home_io_site/static/js/4.2660b814.chunk.js"
   },
   {
     "revision": "18d8d0694fec8623f8a2",
     "url": "/home_io_site/static/js/5.1af24038.chunk.js"
   },
   {
-    "revision": "1dcabfe91ab841d8bba2737620b29ddc",
-    "url": "/home_io_site/static/media/Eina01SemiBold.1dcabfe9.otf"
-  },
-  {
     "revision": "c411f608b82aaf80d9fa1ac9e316b3ce",
     "url": "/home_io_site/static/media/Eina01Regular.c411f608.otf"
+  },
+  {
+    "revision": "1dcabfe91ab841d8bba2737620b29ddc",
+    "url": "/home_io_site/static/media/Eina01SemiBold.1dcabfe9.otf"
   },
   {
     "revision": "9f04d8e29fb2c2e80892e10deea9608e",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-1-evoland.bfc2989f.png"
   },
   {
-    "revision": "d03f7c30483bd7520ffc",
-    "url": "/home_io_site/static/js/main.9f831a27.chunk.js"
+    "revision": "a6b459d33180950a5711",
+    "url": "/home_io_site/static/js/main.03a0f4f3.chunk.js"
   },
   {
     "revision": "3110379b583a895f915e4f329c94b417",
@@ -112,11 +112,11 @@ self.__precacheManifest = [
     "url": "/home_io_site/static/media/section-2-denny.f67491f9.png"
   },
   {
-    "revision": "48bfe7a4241ee14da93e",
+    "revision": "ae7890312a803d87af2a",
     "url": "/home_io_site/static/css/4.1382a463.chunk.css"
   },
   {
-    "revision": "00e7fc15b08997cab7812d4d2111c090",
+    "revision": "2e656bbd337a42a1a10227757332c838",
     "url": "/home_io_site/index.html"
   }
 ];
